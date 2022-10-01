@@ -1,0 +1,31 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Translation files
+*.mo
+
+# Logging files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venvs/
+
+# mypy/Pyre stuff
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
